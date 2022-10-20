@@ -1,0 +1,17 @@
+Altium Designer Pick and Place Locations
+C:\altium workspace\RCL\AS5600\Project Outputs\Pick Place\Pick Place for PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       20.10.22
+Time:       17:25
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment               Layer    Footprint                 Center-X(mm) Center-Y(mm) Rotation Description                                                                     
+U1         AS5600                TopLayer SOIC127P600X175-8N        28.4500      5.8500       270      "Hall Effect Sensor Angle External Magnet, Not Included Gull Wing"              
+C1         GX035C104MAT2-500     TopLayer *CAPC1608X90              32.1000      7.3750       270      "Cap Thin Film 0.1uf 50v 0603"                                                  
+C2         GRM188R71C105KA12D    TopLayer CAPC1608X90N              29.6500      10.1750      180      "SMD Capacitor X7R(EIA) with Capacitance: 1.0uF Tol. 10%. Rated Voltage: 16Vdc" 
+I2C        SM04B-GHS-TB(LF)(SN)- TopLayer JST_SM04B-GHS-TB(LF)(SN)- 23.5250      5.8750       270      "Connector Header Surface Mount, Right Angle 4 position 0.049 _1.25mm_"         
