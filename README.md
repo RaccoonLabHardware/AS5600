@@ -6,7 +6,7 @@ You can find datasheet for sensor [here](https://ams.com/documents/20143/36005/A
 
 <img src="doc/view.png" alt="drawing" height="300"/>
 
-## Connection description
+## Wire
 
 JST 4 pin.
 
