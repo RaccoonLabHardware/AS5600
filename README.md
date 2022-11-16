@@ -2,9 +2,15 @@
 
 Board designed to connect to [THIS](https://raccoonlabdev.github.io/docs/guide/rangefinder/) board as beedback sensor for any servo motor driven mechanism, for example plane elerone or rudder.
 
-You can find datasheet for sensor [here](https://ams.com/documents/20143/36005/AS5600_DS000365_5-00.pdf)
+| View | Top | Bottom |
+| ---- | --- | ------ |
+| <img src="doc/view.png" alt="drawing" height="250"> | <img src="doc/view-top.png" alt="drawing" height="250"/> | <img src="doc/view-bottom.png" alt="drawing" height="250"/> |
 
-<img src="doc/view.png" alt="drawing" height="300"/>
+## Docs
+
+- [User manual]()
+- [Hardware docs](doc/doc.pdf)
+- [Sensor datasheet](https://ams.com/documents/20143/36005/AS5600_DS000365_5-00.pdf)
 
 ## Wire
 
@@ -38,11 +44,6 @@ weight
 PCB version:
 
 Last tested firmware version:
-
-
-
-- [User manual]()
-- [Hardware docs](doc/doc.pdf)
 
 ## Firmware
 
