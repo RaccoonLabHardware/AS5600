@@ -8,7 +8,7 @@ Board designed to connect to [THIS](https://raccoonlabdev.github.io/docs/guide/r
 
 ## Docs
 
-- [User manual]()
+- [User manual](https://raccoonlabdev.github.io/docs/guide/as5600/)
 - [Hardware docs](doc/doc.pdf)
 - [Sensor datasheet](https://ams.com/documents/20143/36005/AS5600_DS000365_5-00.pdf)
 
