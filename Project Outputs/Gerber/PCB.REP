@@ -2,6 +2,43 @@
 FileName = PCB.GBR
 AutoAperture = True
 *************************************************************
+Generating : Mechanical 2
+      File : PCB.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D15
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
 Generating : Bottom Solder
       File : PCB.GBS
 
@@ -13,7 +50,7 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D20
+    D22
 *************************************************************
 
 *************************************************************
@@ -28,34 +65,32 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D15
     D16
     D17
     D18
     D19
     D20
+    D21
+    D22
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 2
-      File : PCB.GM2
+Generating : Top Paste
+      File : PCB.GTP
 
-    Adding Layer      : Mechanical 2
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D23
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : PCB.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D14
+    D16
+    D17
+    D18
+    D19
+    D20
     D21
 *************************************************************
 
@@ -72,6 +107,7 @@ Used DCodes :
     D12
     D13
     D14
+    D15
 *************************************************************
 
 *************************************************************
@@ -98,45 +134,13 @@ Generating : Top Layer
 
 Used DCodes :
     D12
-    D15
     D16
     D17
     D18
     D19
+    D20
     D21
     D22
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : PCB.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : PCB.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
+    D23
 *************************************************************
 
